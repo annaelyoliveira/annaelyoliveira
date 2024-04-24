@@ -1,5 +1,6 @@
-### Hi there 🐱‍💻 My name is Annaely and I study Systems Analysis and Development (ADS). In addition to studying on your own.
+### Hi there 🐱‍💻 
 
+- 😽 My name is Annaely and I study Systems Analysis and Development (ADS). In addition to studying on your own.
 - 🌱 I’m currently learning JavaScript and Java
 - 📚 I have knowledge in the following technologies: HTML5, CSS3
 - 🚀 I’m looking forward to becoming a Software Engineer
