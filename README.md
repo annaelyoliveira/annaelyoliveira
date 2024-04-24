@@ -1,7 +1,8 @@
-### Hi there 🐱‍💻
+### Hi there 🐱‍💻 My name is Annaely and I study Systems Analysis and Development (ADS). In addition to studying on your own.
 
-- 🌱 I’m currently learning HTML 5, CSS and JavaScript
-- 👯 I’m looking forward to becoming a Full Stack Developer
+- 🌱 I’m currently learning JavaScript and Java
+- 📚 I have knowledge in the following technologies: HTML5, CSS3
+- 🚀 I’m looking forward to becoming a Software Engineer
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=annaelyoliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Annaely Oliveira github stats" /> 
