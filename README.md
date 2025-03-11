@@ -1,7 +1,7 @@
 ### Olá 🐱‍💻 
 
 - 😽 Meu nome é Annaely, faço faculdade de Análise e Desenvolvimento de Sistemas (ADS) e adoro estudar. Também estudo por conta própria além da faculdade
-- 🌱 Atualmente eu estou aprendendo Java 
+- 🌱 Atualmente eu estou aprendendo Python e SQL  
 - 📚 Tenho conhecimento nas tecnologias: Java, HTML5, CSS3, Python, JavaScript, Banco de Dados
 - 🚀 Estou ansiosa para me tornar uma desenvolvedora de software
 <div align="center">  
