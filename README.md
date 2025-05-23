@@ -1,8 +1,8 @@
 ### Olá 🐱‍💻 
 
 - 😽 Meu nome é Annaely, faço faculdade de Análise e Desenvolvimento de Sistemas (ADS) e adoro estudar. Também estudo por conta própria além da faculdade
-- 🌱 Atualmente eu estou aprendendo Python e SQL  
-- 📚 Tenho conhecimento nas tecnologias: Java, HTML5, CSS3, Python, JavaScript, Banco de Dados
+- 🌱 Atualmente eu estou aprendendo Java e Springboot  
+- 📚 Tenho conhecimento nas tecnologias: Java, HTML5, CSS3, Python, JavaScript, SQL, básico: Node.js, React, Springboot
 - 🚀 Estou ansiosa para me tornar uma desenvolvedora de software
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=annaelyoliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Annaely Oliveira github stats" /> 
