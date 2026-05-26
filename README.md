@@ -4,8 +4,8 @@
 - 🌱 Atualmente meu foco é: Java, SpringBoot e Banco de Dados
 - 📚 Tenho conhecimento nas tecnologias: Java, HTML5, CSS3, Python, JavaScript, SQL, Node.js, React, Springboot
 - 🚀 Estou ansiosa em me aperfeiçoar cada vez mais como desenvolvedora Back end Junior
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaelyoliveira&layout=compact&theme=tokyonight"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=annaelyoliveira&show_icons=true&theme=tokyonight"/>
 </div>
 <img align="right" alt="Hello-cat" height="200" width="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd5OTY0YjFobG04cmdkYTc0am5rYzh0d3d1eThuZ3pxaDUzc3diNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7uhrpnv9mibtyFHR0l/giphy.gif">
 
