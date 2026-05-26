@@ -1,14 +1,12 @@
 ### Olá 🐱‍💻 
 
-- 😽 Meu nome é Annaely, faço faculdade de Análise e Desenvolvimento de Sistemas (ADS) e adoro estudar. Também estudo por conta própria além da faculdade
-- 🌱 Atualmente eu estou aprendendo Java e Springboot  
-- 📚 Tenho conhecimento nas tecnologias: Java, HTML5, CSS3, Python, JavaScript, SQL, básico: Node.js, React, Springboot
-- 🚀 Estou ansiosa para me tornar uma desenvolvedora de software
+- 😽 Meu nome é Annaely, faço faculdade de Análise e Desenvolvimento de Sistemas (ADS)
+- 🌱 Atualmente meu foco é: Java, SpringBoot e Banco de Dados
+- 📚 Tenho conhecimento nas tecnologias: Java, HTML5, CSS3, Python, JavaScript, SQL, Node.js, React, Springboot
+- 🚀 Estou ansiosa em me aperfeiçoar cada vez mais como desenvolvedora Back end Junior
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=annaelyoliveira&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Annaely Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaelyoliveira&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annaelyoliveira&layout=compact&theme=tokyonight"/>
 </div>
-
 <img align="right" alt="Hello-cat" height="200" width="210" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd5OTY0YjFobG04cmdkYTc0am5rYzh0d3d1eThuZ3pxaDUzc3diNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7uhrpnv9mibtyFHR0l/giphy.gif">
 
 ### Habilidades | Conhecimento
